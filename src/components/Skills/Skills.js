@@ -1,6 +1,6 @@
 import React from "react";
-import { Typography, makeStyles, Box, useTheme, Paper } from "@material-ui/core";
-import ProgressBar from "./ProgressBar";
+import { Typography, makeStyles, Paper } from "@material-ui/core";
+// import ProgressBar from "./ProgressBar";
 import { skillsList } from "../../data";
 
 // function LinearProgressWithLabel({ title, value }) {
