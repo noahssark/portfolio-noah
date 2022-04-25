@@ -8,7 +8,7 @@
 <br />
 <p align="center">
 
-  <h1 align="center">Awesomefolio</h3>
+  <h1 align="center">Portfolio-noah</h1>
 
   <p align="center">
     An awesome, modern React portfolio

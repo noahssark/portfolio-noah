@@ -5,9 +5,7 @@ import Card from "./Card";
 import ExtendedCard from "./ExtendedCard";
 import { projectList } from "../../data";
 import { useTranslation } from "react-i18next";
-import {Box,Link } from "@material-ui/core";
-import { Language} from "@material-ui/icons";
-import IconBtn from "../../components/IconBtn";
+
 
 
 const ProjectsGallery = () => {

@@ -1,9 +1,7 @@
 import React from "react";
 import { makeStyles } from "@material-ui/core";
 import { Link } from "react-scroll";
-import Noahi from "../../assets/images/Noahi";
 import "./NOAH.jpg";
-import Noah from "../../assets/images/Noah";
 
 const Logo = ({ setHomeIsActive, ...rest }) => {
     const classes = useStyles();
